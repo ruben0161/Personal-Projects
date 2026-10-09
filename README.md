@@ -1,2 +1,2 @@
-# BPhO-Coding-Challenge-2025
-My files for the BPhO Coding Challenge are on my PC, alongside the rest of my projects. I will be able to obtain these files in December 2026 as I am currently in University
+#My Personal Projects
+The majority of my personal projects are on my home computer which I used throughout A levels. I cannot currently access these files as I am in University. I will be able to access the files in Mid December 2026
