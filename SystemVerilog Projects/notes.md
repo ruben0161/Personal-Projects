@@ -7,8 +7,7 @@ Alongside this, I will be making my own operating system to run on the CPU.
 
 **The timeline for this project is as follows:** 
 
--Start verification of ripple carry after midterm exams (Week commencing 9th of November)
--Finish ALU in December holidays
--Finish CPU after final exams
--Work on OS over the summer holidays
-
+* Start verification of ripple carry after midterm exams (Week commencing 9th of November)
+* Finish ALU in December holidays
+* Finish CPU after final exams
+* Work on OS over the summer holidays
