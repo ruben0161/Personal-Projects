@@ -1,3 +1,4 @@
+//This code is preliminary and subject to change
 module half_a (
     input a, b,
     output c, s
